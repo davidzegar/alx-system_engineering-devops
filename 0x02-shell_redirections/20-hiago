@@ -1,2 +1,2 @@
 #!/bin/bash
-vi 21-reverse
+tr -d “Cc”
